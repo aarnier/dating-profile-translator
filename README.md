@@ -2,7 +2,7 @@
 
 Confused by dating app doublespeak? Paste their dating app prompt or message and I'll cut through the fluff.
 
-👉 **Try the app here:** [https://dating-profile-translator.streamlit.app/)
+**Try the app here:** [https://dating-profile-translator.streamlit.app/)
 
 ## How to run locally
 
