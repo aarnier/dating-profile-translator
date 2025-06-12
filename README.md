@@ -1,6 +1,6 @@
 # What They *Really* Mean 💔
 
-Confused by dating app doublespeak? Paste their dating app prompt or message and I'll translate the bullshit.
+Confused by dating app doublespeak? Paste their dating app prompt or message and I'll cut through the fluff.
 
 👉 **Try the app here:** [https://dating-profile-translator.streamlit.app/)
 
